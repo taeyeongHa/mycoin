@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/taeyeongHa/mycoin.git"
+- "url": "https://github.com/taeyeongHa/mycoin2.git"
   "dir": "mycoin"
 files:
 - "miniupnpc-1.9.20140401.tar.gz"

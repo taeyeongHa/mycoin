@@ -13,7 +13,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/taeyeongHa/mycoin.git"
+- "url": "https://github.com/taeyeongHa/mycoin2.git"
   "dir": "mycoin"
 files:
 - "qt-win32-4.8.5-gitian-r8.zip"
